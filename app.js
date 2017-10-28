@@ -8,9 +8,6 @@ const userController = require('./controllers/userController');
 const SelfManager = require('./managers/selfManager');
 
 
-let arr = {omid: '', 'ali': 'Om'}
-console.log(('ali' in arr))
-return;
 
 const bot = new telegraf(config.vars.BOT_API);
 
