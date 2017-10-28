@@ -1,0 +1,19 @@
+{
+  "name": "reserve_food",
+  "version": "0.0.1",
+  "description": "reserve ghazaye self pgu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oMID",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "request": "^2.83.0",
+    "telegraf": "^3.14.0"
+  },
+  "devDependencies": {
+    "sandwich-stream": "^1.0.0"
+  }
+}
